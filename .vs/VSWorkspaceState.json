@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\day3\\src",
+    "\\day3\\src\\app",
+    "\\day4\\src",
+    "\\day4\\src\\app",
+    "\\day4\\src\\app\\book",
+    "\\day4\\src\\app\\employee",
+    "\\forms",
+    "\\forms\\src",
+    "\\forms\\src\\app",
+    "\\forms\\src\\app\\registration-form"
+  ],
+  "SelectedNode": "\\forms\\src\\app\\registration-form\\registration-form.component.html",
+  "PreviewInSolutionExplorer": false
+}

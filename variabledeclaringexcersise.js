@@ -1,0 +1,12 @@
+var cargocharges;
+var firstFlight;
+var dtdc;
+var ffc = 5;
+var dtdcc = 10;
+var servicetax;
+servicetax = 0.1;
+firstFlight = 2 * ffc;
+var withouttaxdtdc = 1 * dtdcc;
+dtdc = (withouttaxdtdc) * servicetax + withouttaxdtdc;
+console.log("first flight " + firstFlight);
+console.log("d t d c " + dtdc);
